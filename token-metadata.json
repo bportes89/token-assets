@@ -1,0 +1,8 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "chainId": 11155111,
+  "address": "0x7B5E9A87f6173851f5F13f27aE4209E0512EF71A",
+  "logoURI": "https://cdn.jsdelivr.net/gh/bportes89/token-assets@main/logo.png"
+}

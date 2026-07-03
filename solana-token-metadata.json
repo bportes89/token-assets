@@ -1,0 +1,30 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "Token SPL simples na Solana com 6 decimais e supply inicial fixo.",
+  "image": "https://cdn.jsdelivr.net/gh/bportes89/token-assets@main/logo.png",
+  "external_url": "https://github.com/bportes89/token-assets",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": 6
+    },
+    {
+      "trait_type": "Initial Supply",
+      "value": "3000000000"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/bportes89/token-assets@main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
